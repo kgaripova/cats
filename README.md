@@ -37,7 +37,7 @@ flutter test
 
 Current tests include:
 - `test/breed_repository_test.dart`
-- `test/weight_utils_test.dart`
+- `test/favorites_cubit_test.dart`
 
 ## Project Structure
 
