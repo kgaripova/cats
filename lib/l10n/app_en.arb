@@ -1,0 +1,116 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "Cat Breeds",
+  "@appTitle": {"description": "Application title"},
+
+  "navBreeds": "Breeds",
+  "@navBreeds": {"description": "Bottom nav: breeds tab"},
+
+  "navFavorites": "Favorites",
+  "@navFavorites": {"description": "Bottom nav: Favorites tab"},
+
+  "breedOrigin": "Origin",
+  "@breedOrigin": {"description": "Breed detail: origin label"},
+
+  "breedTemperament": "Temperament",
+  "@breedTemperament": {"description": "Breed detail: temperament label"},
+
+  "breedLifeSpan": "Life span",
+  "@breedLifeSpan": {"description": "Breed detail: life span label"},
+
+  "breedWeight": "Weight",
+  "@breedWeight": {"description": "Breed detail: weight label"},
+
+  "breedWeightImperial": "lbs",
+  "@breedWeightImperial": {"description": "Weight unit toggle: imperial"},
+
+  "breedWeightMetric": "kg",
+  "@breedWeightMetric": {"description": "Weight unit toggle: metric"},
+
+  "breedAdaptability": "Adaptability",
+  "@breedAdaptability": {"description": "Breed trait: adaptability"},
+
+  "breedAffectionLevel": "Affection level",
+  "@breedAffectionLevel": {"description": "Breed trait: affection level"},
+
+  "breedEnergyLevel": "Energy level",
+  "@breedEnergyLevel": {"description": "Breed trait: energy level"},
+
+  "breedIntelligence": "Intelligence",
+  "@breedIntelligence": {"description": "Breed trait: intelligence"},
+
+  "breedSocialNeeds": "Social needs",
+  "@breedSocialNeeds": {"description": "Breed trait: social needs"},
+
+  "breedChildFriendly": "Child friendly",
+  "@breedChildFriendly": {"description": "Breed trait: child friendly"},
+
+  "breedDogFriendly": "Dog friendly",
+  "@breedDogFriendly": {"description": "Breed trait: dog friendly"},
+
+  "breedStrangerFriendly": "Stranger friendly",
+  "@breedStrangerFriendly": {"description": "Breed trait: stranger friendly"},
+
+  "addToFavorites": "Add to favorites",
+  "@addToFavorites": {"description": "Add to Favorites tooltip"},
+
+  "removeFromFavorites": "Remove from favorites",
+  "@removeFromFavorites": {"description": "Remove from Favorites tooltip"},
+
+  "favoritesEmpty": "No favorites yet",
+  "@favoritesEmpty": {"description": "Empty Favorites screen message"},
+
+  "favoritesEmptyHint": "Tap the heart icon on any breed to save it here.",
+  "@favoritesEmptyHint": {"description": "Empty Favorites screen hint"},
+
+  "errorLoadingBreeds": "Failed to load breeds",
+  "@errorLoadingBreeds": {"description": "Error message when breeds fail to load"},
+
+  "errorGeneric": "Something went wrong",
+  "@errorGeneric": {"description": "Generic error message"},
+
+  "retry": "Retry",
+  "@retry": {"description": "Retry button label"},
+
+  "offlineBanner": "Offline – showing cached data",
+  "@offlineBanner": {"description": "Banner shown when app is offline"},
+
+  "offlineFavoritesUnavailable": "Sorry, favorites are unavailable in offline mode.",
+  "@offlineFavoritesUnavailable": {"description": "Message when add/remove Favorites is disabled offline"},
+
+  "lifeSpanYears": "{years} years",
+  "@lifeSpanYears": {
+    "description": "Life span formatted with years unit",
+    "placeholders": {
+      "years": {"type": "String"}
+    }
+  },
+
+  "weightValue": "{value} {unit}",
+  "@weightValue": {
+    "description": "Weight value with unit",
+    "placeholders": {
+      "value": {"type": "String"},
+      "unit": {"type": "String"}
+    }
+  },
+
+  "learnMore": "Learn more",
+  "@learnMore": {"description": "Link to Wikipedia or breed website"},
+
+  "hypoallergenic": "Hypoallergenic",
+  "@hypoallergenic": {"description": "Hypoallergenic badge label"},
+
+  "rare": "Rare",
+  "@rare": {"description": "Rare breed badge label"},
+
+  "voteSuccess": "Vote recorded!",
+  "@voteSuccess": {"description": "Snackbar after successful vote"},
+
+  "voteFailed": "Could not submit vote",
+  "@voteFailed": {"description": "Snackbar after failed vote"},
+
+  "noImageAvailable": "No image available",
+  "@noImageAvailable": {"description": "Placeholder when breed has no image"}
+}
